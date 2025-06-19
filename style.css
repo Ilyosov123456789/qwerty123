@@ -1,0 +1,28 @@
+.hhhh{
+    color: rgb(14, 6, 6);
+    text-align: center;
+}
+.kkk{
+    background-color: rgb(69, 63, 113);
+    border: solid;
+}
+.lll{
+    text-align: center;
+    width: 300px;
+}
+.h{
+    background-color: orange;
+}
+.k{
+    border: 3px;
+    color: white;
+}
+table{
+    border-collapse: collapse;
+    width: 660px;
+    height: 200px;
+}
+tr{
+    border: 2px solid black;
+    border-radius: 2px solid black;
+}
